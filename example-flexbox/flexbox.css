@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .item {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+  }
+  
+  .item-1 {
+    background-color: red;
+  }
+  
+  .item-2 {
+    background-color: blue;
+    height: 200px;
+  }
+  
+  .item-3 {
+    background-color: green;
+    width: 50px;
+  }
+  
+  .item-4 {
+    background-color: yellow;
+    height: 150px;
+  }
+  
+  .item-5 {
+    background-color: purple;
+    width: 150px;
+  }
+  
